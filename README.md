@@ -1,2 +1,2 @@
 # hello-world
-A trial repositor to learn Github
+This is used to improve my use of Github 
